@@ -1,0 +1,2 @@
+git config --global user.email "s_nathan.negose@ousd.org"
+  git config --global user.name "Nathan Negose"
